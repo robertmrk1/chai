@@ -1,6 +1,5 @@
 import numpy as np
 import chess
-import random
 
 board_coords = [[chess.A8, chess.B8, chess.C8, chess.D8, chess.E8, chess.F8, chess.G8, chess.H8], 
                 [chess.A7, chess.B7, chess.C7, chess.D7, chess.E7, chess.F7, chess.G7, chess.H7],
